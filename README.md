@@ -2,7 +2,7 @@
 
 ![demo gif](https://github.com/u1adzik/invert-cursor/blob/main/demo.gif)
 
-3. Usage
+2. Usage
 
 > App.vue
 
