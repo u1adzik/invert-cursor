@@ -6,10 +6,10 @@
 
 > App.vue
 
-    <script  setup>
-	    import  CustomCursor  from  '/path/to/CustomCursor.vue';
+    <script setup>
+	    import CustomCursor from '/path/to/CustomCursor.vue';
     </script>
     
     <template>
-	    <CustomCursor/>
+	    <CustomCursor />
     </template>
