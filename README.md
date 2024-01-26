@@ -1,2 +1,13 @@
-# invert-cursor
-Invert circle cursor component for VueJS
+1. Demo
+![demo gif](https://github.com/u1adzik/invert-cursor/blob/main/demo.gif)
+2. Usage
+
+> App.vue
+
+    <script  setup>
+	    import  CustomCursor  from  '/path/to/CustomCursor.vue';
+    </script>
+    
+    <template>
+	    <CustomCursor/>
+    </template>
